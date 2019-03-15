@@ -1,0 +1,706 @@
+name,url,paradigms
+A# .NET,http://en.wikipedia.org/wiki/A_Sharp_(.NET),
+A# (Axiom),http://en.wikipedia.org/wiki/A_Sharp_(Axiom),"['multi-paradigm', 'object-oriented', 'functional']"
+A-0 System,http://en.wikipedia.org/wiki/A-0_System,
+A+,http://en.wikipedia.org/wiki/A%2B_(programming_language),['array']
+A++,http://en.wikipedia.org/wiki/A%2B%2B,
+ABAP,http://en.wikipedia.org/wiki/ABAP,"['object-oriented', 'structured', 'imperative']"
+ABC,http://en.wikipedia.org/wiki/ABC_(programming_language),"['multi-paradigm', 'imperative', 'procedural', 'structured']"
+ABC ALGOL,http://en.wikipedia.org/wiki/ABC_ALGOL,
+ABLE,http://en.wikipedia.org/wiki/ABLE_(programming_language),
+ABSET,http://en.wikipedia.org/wiki/ABSET,
+ABSYS,http://en.wikipedia.org/wiki/ABSYS,['logic programming']
+ACC,http://en.wikipedia.org/wiki/ACC_(programming_language),
+Accent,http://en.wikipedia.org/wiki/Accent_(programming_language),
+Ace DASL,http://en.wikipedia.org/wiki/Distributed_Application_Specification_Language,
+ACL2,http://en.wikipedia.org/wiki/ACL2,"['functional', 'metaprogramming']"
+ACT-III,http://en.wikipedia.org/wiki/LGP-30#ACT-III_programming_language,
+Action!,http://en.wikipedia.org/wiki/Action!_(programming_language),
+ActionScript,http://en.wikipedia.org/wiki/ActionScript,"['multi-paradigm', 'object-oriented', 'prototype-based', 'functional', 'imperative', 'scripting']"
+Ada,http://en.wikipedia.org/wiki/Ada_(programming_language),['multi-paradigm']
+Adenine,http://en.wikipedia.org/wiki/Adenine_(programming_language),
+Agda,http://en.wikipedia.org/wiki/Agda_(theorem_prover),['functional']
+Agilent VEE,http://en.wikipedia.org/wiki/Agilent_VEE,
+Agora,http://en.wikipedia.org/wiki/Agora_(programming_language),
+AIMMS,http://en.wikipedia.org/wiki/AIMMS,
+Alef,http://en.wikipedia.org/wiki/Alef_(programming_language),"['compiled', 'concurrent', 'structured']"
+ALF,http://en.wikipedia.org/wiki/Algebraic_Logic_Functional_programming_language,"['multi-paradigm', 'logic', 'functional']"
+ALGOL 58,http://en.wikipedia.org/wiki/ALGOL_58,"['procedural', 'imperative', 'structured']"
+ALGOL 60,http://en.wikipedia.org/wiki/ALGOL_60,"['procedural', 'imperative', 'structured']"
+ALGOL 68,http://en.wikipedia.org/wiki/ALGOL_68,"['multi-paradigm', 'concurrent', 'imperative']"
+ALGOL W,http://en.wikipedia.org/wiki/ALGOL_W,"['procedural', 'imperative', 'structured']"
+Alice,http://en.wikipedia.org/wiki/Alice_(programming_language),"['multi-paradigm', 'imperative', 'functional', 'distributed', 'concurrent']"
+Alma-0,http://en.wikipedia.org/wiki/Alma-0,"['multi-paradigm', 'constraint', 'imperative', 'logic']"
+AmbientTalk,http://en.wikipedia.org/wiki/AmbientTalk,"['object-oriented', 'prototype-based', 'concurrent', 'event-driven', 'reflective']"
+Amiga E,http://en.wikipedia.org/wiki/Amiga_E,
+AMOS,http://en.wikipedia.org/wiki/AMOS_(programming_language),"['imperative', 'procedural']"
+AMPL,http://en.wikipedia.org/wiki/AMPL,"['multi-paradigm', 'declarative', 'imperative']"
+APL,http://en.wikipedia.org/wiki/APL_(programming_language),"['array', 'functional', 'structured', 'modular']"
+App Inventor for Android's visual block language,http://en.wikipedia.org/wiki/App_Inventor_for_Android_(programming_language),
+AppleScript,http://en.wikipedia.org/wiki/AppleScript,"['natural language programming', 'scripting']"
+Arc,http://en.wikipedia.org/wiki/Arc_(programming_language),"['multiparadigm', 'functional', 'procedural', 'meta']"
+ARexx,http://en.wikipedia.org/wiki/ARexx,
+Argus,http://en.wikipedia.org/wiki/Argus_(programming_language),
+AspectJ,http://en.wikipedia.org/wiki/AspectJ,['aspect-oriented']
+Assembly language,http://en.wikipedia.org/wiki/Assembly_language,"['imperative', 'unstructured']"
+ATS,http://en.wikipedia.org/wiki/ATS_(programming_language),"['multi-paradigm', 'imperative', 'functional']"
+Ateji PX,http://en.wikipedia.org/wiki/Ateji_PX,"['object-oriented', 'pi calculus']"
+AutoHotkey,http://en.wikipedia.org/wiki/AutoHotkey,
+Autocoder,http://en.wikipedia.org/wiki/Autocoder,
+AutoIt,http://en.wikipedia.org/wiki/AutoIt,
+AutoLISP / Visual LISP,http://en.wikipedia.org/wiki/AutoLISP,
+Averest,http://en.wikipedia.org/wiki/Averest,
+AWK,http://en.wikipedia.org/wiki/AWK,"['scripting', 'procedural', 'data-driven']"
+Axum,http://en.wikipedia.org/wiki/Axum_(programming_language),
+B,http://en.wikipedia.org/wiki/B_(programming_language),
+Babbage,http://en.wikipedia.org/wiki/Babbage_(programming_language),"['procedural', 'structured', 'high-level assembler']"
+Bash,http://en.wikipedia.org/wiki/Bash_(Unix_shell),
+BASIC,http://en.wikipedia.org/wiki/BASIC,"['non-structured', 'procedural', 'object-oriented']"
+bc,http://en.wikipedia.org/wiki/Bc_(programming_language),
+BCPL,http://en.wikipedia.org/wiki/BCPL,"['procedural', 'imperative', 'structured']"
+BeanShell,http://en.wikipedia.org/wiki/BeanShell,"['object-oriented', 'scripting']"
+Batch (Windows/Dos),http://en.wikipedia.org/wiki/Batch_file,
+Bertrand,http://en.wikipedia.org/wiki/Bertrand_(programming_language),
+BETA,http://en.wikipedia.org/wiki/BETA_(programming_language),['object-oriented']
+Bigwig,http://en.wikipedia.org/wiki/Bigwig_(programming_language),
+Bistro,http://en.wikipedia.org/wiki/Bistro_(programming_language),
+BitC,http://en.wikipedia.org/wiki/BitC,
+BLISS,http://en.wikipedia.org/wiki/BLISS_(programming_language),"['structured', 'imperative', 'procedural']"
+Blue,http://en.wikipedia.org/wiki/Blue_(programming_language),
+Bon,http://en.wikipedia.org/wiki/Bon_(programming_language),
+Boo,http://en.wikipedia.org/wiki/Boo_(programming_language),['object oriented']
+Boomerang,http://en.wikipedia.org/wiki/Boomerang_(programming_language),
+Bourne shell,http://en.wikipedia.org/wiki/Bourne_shell,
+bash,http://en.wikipedia.org/wiki/Bash_(Unix_shell),
+ksh,http://en.wikipedia.org/wiki/Korn_shell,
+BREW,http://en.wikipedia.org/wiki/Qualcomm_Brew,
+BPEL,http://en.wikipedia.org/wiki/Business_Process_Execution_Language,
+C,http://en.wikipedia.org/wiki/C_(programming_language),"['imperative', 'procedural', 'structured']"
+C--,http://en.wikipedia.org/wiki/C--,['imperative']
+C++,http://en.wikipedia.org/wiki/C%2B%2B,"['multi-paradigm', 'procedural', 'functional', 'object-oriented', 'generic']"
+C#,http://en.wikipedia.org/wiki/C_Sharp_(programming_language),"['structured', 'imperative', 'object-oriented', 'event-driven', 'task-driven', 'functional', 'generic', 'reflective', 'concurrent']"
+C/AL,http://en.wikipedia.org/wiki/C/AL,
+Caché ObjectScript,http://en.wikipedia.org/wiki/Cach%C3%A9_ObjectScript,
+C Shell,http://en.wikipedia.org/wiki/C_Shell,
+Caml,http://en.wikipedia.org/wiki/Caml,"['multi-paradigm', 'functional', 'imperative', 'object-oriented', 'ocaml']"
+Candle,http://en.wikipedia.org/wiki/Candle_(programming_language),
+Cayenne,http://en.wikipedia.org/wiki/Cayenne_(programming_language),
+CDuce,http://en.wikipedia.org/wiki/CDuce,
+Cecil,http://en.wikipedia.org/wiki/Cecil_(programming_language),
+Cel,http://en.wikipedia.org/wiki/Cel_(programming_language),
+Cesil,http://en.wikipedia.org/wiki/Cesil,
+Ceylon,http://en.wikipedia.org/wiki/Ceylon_(programming_language),['object-oriented']
+CFEngine,http://en.wikipedia.org/wiki/CFEngine,
+CFML,http://en.wikipedia.org/wiki/ColdFusion_Markup_Language,"['imperative', 'object-oriented']"
+Cg,http://en.wikipedia.org/wiki/Cg_(programming_language),
+Ch,http://en.wikipedia.org/wiki/Ch_(computer_programming),
+Chapel,http://en.wikipedia.org/wiki/Chapel_(programming_language),"['object-oriented', 'partitioned global address space', 'parallel programming']"
+CHAIN,http://en.wikipedia.org/wiki/CHAIN_(programming_language),
+Charity,http://en.wikipedia.org/wiki/Charity_(programming_language),['pure functional']
+Charm,http://en.wikipedia.org/wiki/Charm_(language),['structured programming']
+Chef,http://en.wikipedia.org/wiki/Chef_(programming_language),
+CHILL,http://en.wikipedia.org/wiki/CHILL,['procedural']
+CHIP-8,http://en.wikipedia.org/wiki/CHIP-8,
+chomski,http://en.wikipedia.org/wiki/Chomski,['scripting language']
+ChucK,http://en.wikipedia.org/wiki/ChucK,['multi-paradigm']
+CICS,http://en.wikipedia.org/wiki/CICS,
+Cilk,http://en.wikipedia.org/wiki/Cilk,"['imperative', 'procedural', 'structured', 'parallel']"
+CL,http://en.wikipedia.org/wiki/AS/400_Control_Language,['imperative']
+Claire,http://en.wikipedia.org/wiki/Claire_(programming_language),"['multi-paradigm', 'functional', 'object-oriented', 'class-based', 'rule processing', 'reflective']"
+Clarion,http://en.wikipedia.org/wiki/Clarion_(programming_language),
+Clean,http://en.wikipedia.org/wiki/Clean_(programming_language),['functional']
+Clipper,http://en.wikipedia.org/wiki/Clipper_(programming_language),
+CLIST,http://en.wikipedia.org/wiki/CLIST,
+Clojure,http://en.wikipedia.org/wiki/Clojure,['multi-paradigm']
+CLU,http://en.wikipedia.org/wiki/CLU_(programming_language),"['multi-paradigm', 'object-oriented', 'procedural']"
+CMS-2,http://en.wikipedia.org/wiki/CMS-2_(programming_language),['imperative']
+COBOL,http://en.wikipedia.org/wiki/COBOL,"['procedural', 'imperative', 'object-oriented']"
+Cobra,http://en.wikipedia.org/wiki/Cobra_(programming_language),"['multi-paradigm', 'object-oriented']"
+CODE,http://en.wikipedia.org/wiki/CODE_(programming_language),
+CoffeeScript,http://en.wikipedia.org/wiki/CoffeeScript,"['multi-paradigm', 'prototype-based', 'functional', 'imperative', 'scripting']"
+Cola,http://en.wikipedia.org/wiki/Cola_(programming_language),
+ColdC,http://en.wikipedia.org/wiki/ColdC,
+ColdFusion,http://en.wikipedia.org/wiki/ColdFusion,
+COMAL,http://en.wikipedia.org/wiki/COMAL,['structured']
+Combined Programming Language,http://en.wikipedia.org/wiki/Combined_Programming_Language,"['multi-paradigm', 'procedural', 'imperative', 'structured', 'functional']"
+COMIT,http://en.wikipedia.org/wiki/COMIT,
+Common Intermediate Language,http://en.wikipedia.org/wiki/Common_Intermediate_Language,
+Common Lisp,http://en.wikipedia.org/wiki/Common_Lisp,"['multi-paradigm', 'procedural', 'functional', 'object-oriented', 'meta', 'reflective', 'generic']"
+COMPASS,http://en.wikipedia.org/wiki/COMPASS,
+Component Pascal,http://en.wikipedia.org/wiki/Component_Pascal,"['imperative', 'structured', 'modular', 'object-oriented']"
+Constraint Handling Rules,http://en.wikipedia.org/wiki/Constraint_Handling_Rules,['constraint logic programming']
+Converge,http://en.wikipedia.org/wiki/Converge_(programming_language),
+Cool,http://en.wikipedia.org/wiki/Cool_(programming_language),['object-oriented']
+Coq,http://en.wikipedia.org/wiki/Coq,[]
+Coral 66,http://en.wikipedia.org/wiki/Coral_66,"['procedural', 'imperative', 'structured']"
+Corn,http://en.wikipedia.org/wiki/Corn_(emulator),
+CorVision,http://en.wikipedia.org/wiki/CorVision,
+COWSEL,http://en.wikipedia.org/wiki/COWSEL,
+CPL,http://en.wikipedia.org/wiki/Combined_Programming_Language,"['multi-paradigm', 'procedural', 'imperative', 'structured', 'functional']"
+csh,http://en.wikipedia.org/wiki/C_shell,
+CSP,http://en.wikipedia.org/wiki/Communicating_sequential_processes,
+Csound,http://en.wikipedia.org/wiki/Csound,
+CUDA,http://en.wikipedia.org/wiki/CUDA,
+Curl,http://en.wikipedia.org/wiki/Curl_(programming_language),"['multi-paradigm', 'object-oriented', 'markup']"
+Curry,http://en.wikipedia.org/wiki/Curry_(programming_language),"['functional', 'logic']"
+Cyclone,http://en.wikipedia.org/wiki/Cyclone_(programming_language),
+Cython,http://en.wikipedia.org/wiki/Cython,
+D,http://en.wikipedia.org/wiki/D_(programming_language),"['compiled', 'multi-paradigm']"
+DASL,http://en.wikipedia.org/wiki/Datapoint%27s_Advanced_Systems_Language,
+DASL,http://en.wikipedia.org/wiki/Distributed_Application_Specification_Language,
+Dart,http://en.wikipedia.org/wiki/Dart_(programming_language),"['multi-paradigm', 'scripting', 'object-oriented', 'class-based', 'imperative', 'reflective', 'functional', 'garbage-collected']"
+DataFlex,http://en.wikipedia.org/wiki/DataFlex,
+Datalog,http://en.wikipedia.org/wiki/Datalog,
+DATATRIEVE,http://en.wikipedia.org/wiki/DATATRIEVE,
+dBase,http://en.wikipedia.org/wiki/DBase,"['imperative', 'declarative']"
+dc,http://en.wikipedia.org/wiki/Dc_(computer_program),
+DCL,http://en.wikipedia.org/wiki/DIGITAL_Command_Language,['imperative']
+Deesel,http://en.wikipedia.org/wiki/Deesel,
+Delphi,http://en.wikipedia.org/wiki/Delphi_(programming_language),"['imperative', 'structured', 'object-oriented', 'functional (delphi dialect only)', 'component-based', 'event-driven', 'generic']"
+DCL,http://en.wikipedia.org/wiki/DIGITAL_Command_Language,['imperative']
+DinkC,http://en.wikipedia.org/wiki/Dink_Smallwood#Modification,
+DIBOL,http://en.wikipedia.org/wiki/DIBOL,"['procedural', 'imperative', 'structured']"
+Dog,http://en.wikipedia.org/wiki/Sepandar_Kamvar#.22Dog.22_programming_language,
+Draco,http://en.wikipedia.org/wiki/Draco_(programming_language),"['imperative', 'procedural', 'structured']"
+DRAKON,http://en.wikipedia.org/wiki/DRAKON,['visual']
+Dylan,http://en.wikipedia.org/wiki/Dylan_(programming_language),"['multi-paradigm', 'functional', 'object-oriented']"
+DYNAMO,http://en.wikipedia.org/wiki/DYNAMO_(programming_language),
+E,http://en.wikipedia.org/wiki/E_(programming_language),"['multi-paradigm', 'object-oriented', 'message passing']"
+E#,http://en.wikipedia.org/wiki/E_Sharp_(programming_language),
+Ease,http://en.wikipedia.org/wiki/Ease_(programming_language),"['concurrent', 'communicating sequential processes']"
+Easy PL/I,http://en.wikipedia.org/wiki/PL/I,"['procedural', 'imperative', 'structured']"
+Easy Programming Language,http://en.wikipedia.org/wiki/Easy_Programming_Language,
+EASYTRIEVE PLUS,http://en.wikipedia.org/wiki/Easytrieve,
+ECMAScript,http://en.wikipedia.org/wiki/ECMAScript,"['multi-paradigm', 'prototype-based', 'functional', 'imperative']"
+Edinburgh IMP,http://en.wikipedia.org/wiki/Edinburgh_IMP,
+EGL,http://en.wikipedia.org/wiki/EGL_(programming_language),
+Eiffel,http://en.wikipedia.org/wiki/Eiffel_(programming_language),"['object-oriented', 'class-based', 'generic', 'concurrent']"
+ELAN,http://en.wikipedia.org/wiki/ELAN_(programming_language),[]
+Elixir,http://en.wikipedia.org/wiki/Elixir_(programming_language),"['multi-paradigm', 'functional', 'concurrent', 'distributed', 'process-oriented']"
+Elm,http://en.wikipedia.org/wiki/Elm_(programming_language),['functional']
+Emacs Lisp,http://en.wikipedia.org/wiki/Emacs_Lisp,"['functional', 'meta', 'reflective']"
+Emerald,http://en.wikipedia.org/wiki/Emerald_(programming_language),['object-oriented']
+Epigram,http://en.wikipedia.org/wiki/Epigram_(programming_language),['functional']
+EPL,http://en.wikipedia.org/wiki/Easy_Programming_Language,
+Erlang,http://en.wikipedia.org/wiki/Erlang_(programming_language),"['multi-paradigm', 'concurrent', 'functional']"
+es,http://en.wikipedia.org/wiki/Es_(Unix_shell),"['imperative', 'pipeline']"
+Escapade,http://en.wikipedia.org/wiki/Escapade_(programming_language),
+Escher,http://en.wikipedia.org/wiki/Escher_(programming_language),"['declarative', 'functional', 'logic']"
+ESPOL,http://en.wikipedia.org/wiki/Executive_Systems_Problem_Oriented_Language,
+Esterel,http://en.wikipedia.org/wiki/Esterel,
+Etoys,http://en.wikipedia.org/wiki/Etoys_(programming_language),"['object-oriented', 'prototype-based', 'educational']"
+Euclid,http://en.wikipedia.org/wiki/Euclid_(programming_language),"['multi-paradigm', 'structured', 'imperative', 'functional']"
+Euler,http://en.wikipedia.org/wiki/Euler_(programming_language),"['procedural', 'imperative', 'structured']"
+Euphoria,http://en.wikipedia.org/wiki/Euphoria_(programming_language),"['imperative, procedural']"
+EusLisp Robot Programming Language,http://en.wikipedia.org/wiki/EusLisp_Robot_Programming_Language,
+CMS EXEC,http://en.wikipedia.org/wiki/CMS_EXEC,
+EXEC 2,http://en.wikipedia.org/wiki/EXEC_2,
+Executable UML,http://en.wikipedia.org/wiki/Executable_UML,
+F,http://en.wikipedia.org/wiki/F_(programming_language),"['procedural', 'modular']"
+F#,http://en.wikipedia.org/wiki/F_Sharp_(programming_language),"['multi-paradigm', 'functional', 'imperative', 'object-oriented', 'metaprogramming', 'reflective', 'concurrent']"
+Factor,http://en.wikipedia.org/wiki/Factor_(programming_language),"['multi-paradigm', 'functional', 'concatenative', 'stack-oriented']"
+Falcon,http://en.wikipedia.org/wiki/Falcon_(programming_language),
+Fancy,http://en.wikipedia.org/wiki/Fancy_(programming_language),
+Fantom,http://en.wikipedia.org/wiki/Fantom_(programming_language),['multi-paradigm']
+FAUST,http://en.wikipedia.org/wiki/FAUST_(programming_language),
+Felix,http://en.wikipedia.org/wiki/Felix_(programming_language),
+Ferite,http://en.wikipedia.org/wiki/Ferite,
+FFP,http://en.wikipedia.org/wiki/FFP_(programming_language),['function-level']
+Fjölnir,http://en.wikipedia.org/wiki/Fj%C3%B6lnir_(programming_language),['object-oriented']
+FL,http://en.wikipedia.org/wiki/FL_(programming_language),"['function-level', 'functional']"
+Flavors,http://en.wikipedia.org/wiki/Flavors_(programming_language),
+Flex,http://en.wikipedia.org/wiki/Flex_(programming_language),
+FLOW-MATIC,http://en.wikipedia.org/wiki/FLOW-MATIC,['imperative']
+FOCAL,http://en.wikipedia.org/wiki/FOCAL_(programming_language),
+FOCUS,http://en.wikipedia.org/wiki/FOCUS,
+FOIL,http://en.wikipedia.org/wiki/FOIL_(programming_language),
+FORMAC,http://en.wikipedia.org/wiki/FORMAC_(programming_language),
+@Formula,http://en.wikipedia.org/wiki/Formula_language,
+Forth,http://en.wikipedia.org/wiki/Forth_(programming_language),"['procedural', 'stack-oriented', 'reflective', 'concatenative']"
+Fortran,http://en.wikipedia.org/wiki/Fortran,"['multi-paradigm', 'structured', 'imperative', 'procedural', 'object-oriented', 'generic']"
+Fortress,http://en.wikipedia.org/wiki/Fortress_(programming_language),
+FoxBase,http://en.wikipedia.org/wiki/FoxBase,
+FoxPro,http://en.wikipedia.org/wiki/FoxPro_(disambiguation),
+FP,http://en.wikipedia.org/wiki/FP_(programming_language),['function-level']
+FPr,http://en.wikipedia.org/wiki/FPr_(programming_language),
+Franz Lisp,http://en.wikipedia.org/wiki/Franz_Lisp,"['multi-paradigm', 'functional', 'procedural', 'reflective', 'meta']"
+F-Script,http://en.wikipedia.org/wiki/F-Script_(programming_language),"['multi-paradigm', 'object-oriented', 'array']"
+FSProg,http://fr.wikipedia.org/wiki/FSProg,
+G,http://en.wikipedia.org/wiki/G_(programming_language),[]
+Google Apps Script,http://en.wikipedia.org/wiki/Google_Apps_Script,
+Game Maker Language,http://en.wikipedia.org/wiki/GameMaker:_Studio,
+GameMonkey Script,http://en.wikipedia.org/wiki/GameMonkey_Script,
+GAMS,http://en.wikipedia.org/wiki/General_Algebraic_Modeling_System,
+GAP,http://en.wikipedia.org/wiki/GAP_computer_algebra_system,
+G-code,http://en.wikipedia.org/wiki/G-code,[]
+Genie,http://en.wikipedia.org/wiki/Genie_(programming_language),"['multi-paradigm', 'imperative', 'structured', 'object-oriented']"
+GDL,http://en.wikipedia.org/wiki/Geometric_Description_Language,
+Gibiane,http://en.wikipedia.org/wiki/Gibiane,
+GJ,http://en.wikipedia.org/wiki/Generic_Java,
+GEORGE,http://en.wikipedia.org/wiki/GEORGE_(programming_language),
+GLSL,http://en.wikipedia.org/wiki/GLSL,
+GNU E,http://en.wikipedia.org/wiki/GNU_E,['object-oriented']
+GM,http://en.wikipedia.org/wiki/Golden_master,
+Go,http://en.wikipedia.org/wiki/Go_(programming_language),"['multi-paradigm', 'concurrent', 'functional', 'imperative', 'object-oriented']"
+Go!,http://en.wikipedia.org/wiki/Go!_(programming_language),"['multi-paradigm', 'concurrent', 'logic', 'functional', 'imperative', 'object-based']"
+GOAL,http://en.wikipedia.org/wiki/Game_Oriented_Assembly_Lisp,
+Gödel,http://en.wikipedia.org/wiki/G%C3%B6del_(programming_language),"['declarative', 'logic']"
+Godiva,http://en.wikipedia.org/wiki/Godiva_(programming_language),
+GOM (Good Old Mad),http://en.wikipedia.org/wiki/MAD_(programming_language),['imperative']
+Goo,http://en.wikipedia.org/wiki/Goo_(programming_language),
+Gosu,http://en.wikipedia.org/wiki/Gosu_(programming_language),
+GOTRAN,http://en.wikipedia.org/wiki/IBM_1620#GOTRAN,
+GPSS,http://en.wikipedia.org/wiki/GPSS,
+GraphTalk,http://en.wikipedia.org/wiki/Computer_Sciences_Corporation,
+GRASS,http://en.wikipedia.org/wiki/GRASS_(programming_language),
+Groovy,http://en.wikipedia.org/wiki/Groovy_(programming_language),"['object-oriented', 'imperative', 'scripting']"
+Hack (programming language),http://en.wikipedia.org/wiki/Hack_(programming_language),
+HAL/S,http://en.wikipedia.org/wiki/HAL/S,
+Hamilton C shell,http://en.wikipedia.org/wiki/Hamilton_C_shell,
+Harbour,http://en.wikipedia.org/wiki/Harbour_(software),"['multi-paradigm', 'imperative', 'functional', 'object-oriented', 'reflective']"
+Hartmann pipelines,http://en.wikipedia.org/wiki/Hartmann_pipeline,['dataflow programming']
+Haskell,http://en.wikipedia.org/wiki/Haskell_(programming_language),['functional']
+Haxe,http://en.wikipedia.org/wiki/Haxe,['multi-paradigm']
+High Level Assembly,http://en.wikipedia.org/wiki/High_Level_Assembly,
+HLSL,http://en.wikipedia.org/wiki/High_Level_Shader_Language,
+Hop,http://en.wikipedia.org/wiki/Hop_(software),['multi-paradigm']
+Hope,http://en.wikipedia.org/wiki/Hope_(programming_language),
+Hugo,http://en.wikipedia.org/wiki/Hugo_(programming_language),
+Hume,http://en.wikipedia.org/wiki/Hume_(language),
+HyperTalk,http://en.wikipedia.org/wiki/HyperTalk,['procedural']
+IBM Basic assembly language,http://en.wikipedia.org/wiki/IBM_Basic_assembly_language,
+IBM HAScript,http://en.wikipedia.org/wiki/IBM_HAScript,
+IBM Informix-4GL,http://en.wikipedia.org/wiki/IBM_Informix-4GL,
+IBM RPG,http://en.wikipedia.org/wiki/IBM_RPG,['multi-paradigm']
+ICI,http://en.wikipedia.org/wiki/ICI_(programming_language),
+Icon,http://en.wikipedia.org/wiki/Icon_(programming_language),"['multi-paradigm', 'structured']"
+Id,http://en.wikipedia.org/wiki/Id_(programming_language),
+IDL,http://en.wikipedia.org/wiki/IDL_(programming_language),['vector-oriented programming']
+Idris,http://en.wikipedia.org/wiki/Idris_(programming_language),['functional']
+IMP,http://en.wikipedia.org/wiki/IMP_(programming_language),
+Inform,http://en.wikipedia.org/wiki/Inform,"['object-oriented', 'procedural']"
+Io,http://en.wikipedia.org/wiki/Io_(programming_language),"['object-oriented', 'prototype-based']"
+Ioke,http://en.wikipedia.org/wiki/Ioke_(programming_language),"['object-oriented', 'prototype-based']"
+IPL,http://en.wikipedia.org/wiki/Information_Processing_Language,['assembly']
+IPTSCRAE,http://en.wikipedia.org/wiki/IPTSCRAE,
+ISLISP,http://en.wikipedia.org/wiki/ISLISP,"['multi-paradigm', 'functional', 'procedural', 'object-oriented', 'reflective', 'meta']"
+ISPF,http://en.wikipedia.org/wiki/ISPF,
+ISWIM,http://en.wikipedia.org/wiki/ISWIM,"['imperative', 'functional']"
+J,http://en.wikipedia.org/wiki/J_(programming_language),
+J#,http://en.wikipedia.org/wiki/J_Sharp,[]
+J++,http://en.wikipedia.org/wiki/Visual_J%2B%2B,
+JADE,http://en.wikipedia.org/wiki/JADE_(programming_language),
+Jako,http://en.wikipedia.org/wiki/Jako_(programming_language),
+JAL,http://en.wikipedia.org/wiki/JAL_(compiler),
+Janus,http://en.wikipedia.org/wiki/Janus_(programming_language),
+JASS,http://en.wikipedia.org/wiki/JASS,
+Java,http://en.wikipedia.org/wiki/Java_(programming_language),"['multi-paradigm', 'object-oriented', 'class-based', 'structured', 'imperative', 'generic', 'reflective', 'concurrent']"
+JavaScript,http://en.wikipedia.org/wiki/JavaScript,"['multi-paradigm', 'event-driven', 'functional', 'imperative', 'object-oriented', 'prototype-based']"
+JCL,http://en.wikipedia.org/wiki/Job_Control_Language,
+JEAN,http://en.wikipedia.org/wiki/JEAN,
+Join Java,http://en.wikipedia.org/wiki/Join_Java,"['procedural', 'reflective']"
+JOSS,http://en.wikipedia.org/wiki/JOSS,
+Joule,http://en.wikipedia.org/wiki/Joule_(programming_language),"['multi-paradigm', 'object-oriented', 'distributed', 'dataflow']"
+JOVIAL,http://en.wikipedia.org/wiki/JOVIAL,"['procedural', 'imperative', 'structured']"
+Joy,http://en.wikipedia.org/wiki/Joy_(programming_language),"['multi-paradigm', 'functional', 'concatenative', 'stack-oriented']"
+JScript,http://en.wikipedia.org/wiki/JScript,
+JScript .NET,http://en.wikipedia.org/wiki/JScript_.NET,['multi-paradigm']
+JavaFX Script,http://en.wikipedia.org/wiki/JavaFX_Script,
+Julia,http://en.wikipedia.org/wiki/Julia_(programming_language),"['multi-paradigm', 'multiple dispatch', 'procedural', 'functional', 'meta', 'multistaged']"
+Jython,http://en.wikipedia.org/wiki/Jython,
+K,http://en.wikipedia.org/wiki/K_(programming_language),"['array', 'functional']"
+Kaleidoscope,http://en.wikipedia.org/wiki/Kaleidoscope_(programming_language),
+Karel,http://en.wikipedia.org/wiki/Karel_(programming_language),['procedural']
+Karel++,http://en.wikipedia.org/wiki/Karel%2B%2B,['procedural']
+KEE,http://en.wikipedia.org/wiki/IntelliCorp_(Software),
+Kixtart,http://en.wikipedia.org/wiki/KiXtart,
+KIF,http://en.wikipedia.org/wiki/Knowledge_Interchange_Format,
+Kojo,http://en.wikipedia.org/wiki/Kojo_(programming_language),"['object-oriented', 'functional']"
+Kotlin,http://en.wikipedia.org/wiki/Kotlin_(programming_language),
+KRC,http://en.wikipedia.org/wiki/Kent_Recursive_Calculator,['functional']
+KRL,http://en.wikipedia.org/wiki/KRL_(programming_language),['knowledge representation']
+KUKA,http://en.wikipedia.org/wiki/KUKA,
+KRYPTON,http://en.wikipedia.org/wiki/KRYPTON,
+ksh,http://en.wikipedia.org/wiki/Korn_shell,
+L,http://en.wikipedia.org/wiki/L_(programming_language),
+L# .NET,http://en.wikipedia.org/wiki/L_Sharp,
+LabVIEW,http://en.wikipedia.org/wiki/LabVIEW,
+Ladder,http://en.wikipedia.org/wiki/Ladder_logic,
+Lagoona,http://en.wikipedia.org/wiki/Lagoona_(programming_language),
+LANSA,http://en.wikipedia.org/wiki/LANSA_(development_environment),
+Lasso,http://en.wikipedia.org/wiki/Lasso_(programming_language),"['multi-paradigm', 'structured', 'object-oriented', 'multi-dis', 'meta', 'reflective']"
+LaTeX,http://en.wikipedia.org/wiki/LaTeX,
+Lava,http://en.wikipedia.org/wiki/Lava_(programming_language),
+LC-3,http://en.wikipedia.org/wiki/LC-3,
+Leda,http://en.wikipedia.org/wiki/Leda_(programming_language),
+Legoscript,http://en.wikipedia.org/wiki/Lego_Mindstorms,
+LIL,http://en.wikipedia.org/wiki/Little_Implementation_Language,
+LilyPond,http://en.wikipedia.org/wiki/LilyPond,
+Limbo,http://en.wikipedia.org/wiki/Limbo_(programming_language),['concurrent']
+Limnor,http://en.wikipedia.org/wiki/Limnor,
+LINC,http://en.wikipedia.org/wiki/LINC,
+Lingo,http://en.wikipedia.org/wiki/Lingo_(programming_language),
+Linoleum,http://en.wikipedia.org/wiki/Linoleum_(programming_language),
+LIS,http://en.wikipedia.org/wiki/LIS_(programming_language),
+LISA,http://en.wikipedia.org/wiki/Language_for_Instruction_Set_Architecture,
+Lisaac,http://en.wikipedia.org/wiki/Lisaac,
+Lisp,http://en.wikipedia.org/wiki/Lisp_(programming_language),"['multi-paradigm', 'functional', 'procedural', 'reflective', 'meta']"
+Lite-C,http://en.wikipedia.org/wiki/Lite-C,
+Lithe,http://en.wikipedia.org/wiki/Lithe_(programming_language),
+Little b,http://en.wikipedia.org/wiki/Little_b_(programming_language),['functional']
+Logo,http://en.wikipedia.org/wiki/Logo_(programming_language),"['multi-paradigm', 'functional', 'educational', 'procedural', 'reflective']"
+Logtalk,http://en.wikipedia.org/wiki/Logtalk,"['logic programming', 'object-oriented programming', 'prototype-based programming']"
+LPC,http://en.wikipedia.org/wiki/LPC_(programming_language),"['multi-paradigm', 'object-oriented', 'functional', 'procedural', 'prototype-based']"
+LSE,http://en.wikipedia.org/wiki/LSE_(programming_language),
+LSL,http://en.wikipedia.org/wiki/Linden_Scripting_Language,
+LiveCode,http://en.wikipedia.org/wiki/LiveCode,['object-oriented']
+LiveScript,http://en.wikipedia.org/wiki/LiveScript,"['multi-paradigm', 'functional', 'object-oriented']"
+Lua,http://en.wikipedia.org/wiki/Lua_(programming_language),"['multi-paradigm', 'scripting', 'imperative', 'procedural', 'prototype-based', 'object-oriented', 'functional']"
+Lucid,http://en.wikipedia.org/wiki/Lucid_(programming_language),['dataflow']
+Lustre,http://en.wikipedia.org/wiki/Lustre_(programming_language),
+LYaPAS,http://en.wikipedia.org/wiki/LYaPAS,"['array', 'functional', 'structured', 'modular']"
+Lynx,http://en.wikipedia.org/wiki/Lynx_(programming_language),
+M2001,http://en.wikipedia.org/wiki/M2001,
+M4,http://en.wikipedia.org/wiki/M4_(computer_language),['macro']
+Machine code,http://en.wikipedia.org/wiki/Machine_code,
+MAD,http://en.wikipedia.org/wiki/MAD_(programming_language),['imperative']
+MAD/I,http://en.wikipedia.org/wiki/MAD_(programming_language),['imperative']
+Magik,http://en.wikipedia.org/wiki/Magik_(programming_language),
+Magma,http://en.wikipedia.org/wiki/Magma_computer_algebra_system,
+make,http://en.wikipedia.org/wiki/Make_(software),"['macro', 'declarative']"
+Maple,http://en.wikipedia.org/wiki/Maple_(software),['maplesoft']
+MAPPER,http://en.wikipedia.org/wiki/MAPPER,
+MARK-IV,http://en.wikipedia.org/wiki/MARK_IV_(software),
+Mary,http://en.wikipedia.org/wiki/Mary_(programming_language),['imperative']
+MASM Microsoft Assembly x86,http://en.wikipedia.org/wiki/Microsoft_Macro_Assembler,
+Mathematica,http://en.wikipedia.org/wiki/Mathematica,
+MATLAB,http://en.wikipedia.org/wiki/MATLAB,"['multi-paradigm', 'functional', 'imperative', 'procedural', 'object-oriented', 'array']"
+Maxima,http://en.wikipedia.org/wiki/Maxima_(software),
+Macsyma,http://en.wikipedia.org/wiki/Macsyma,
+Max,http://en.wikipedia.org/wiki/Max_(software),"['visual', 'flow-based', 'declarative', 'domain-specific']"
+MaxScript,http://en.wikipedia.org/wiki/Autodesk_3ds_Max,
+Maya (MEL),http://en.wikipedia.org/wiki/Maya_Embedded_Language,
+MDL,http://en.wikipedia.org/wiki/MDL_(programming_language),"['multi-paradigm', 'functional', 'procedural', 'reflective', 'meta']"
+Mercury,http://en.wikipedia.org/wiki/Mercury_(programming_language),"['logic', 'functional', 'object-oriented']"
+Mesa,http://en.wikipedia.org/wiki/Mesa_(programming_language),
+Metacard,http://en.wikipedia.org/wiki/Metacard,
+Metafont,http://en.wikipedia.org/wiki/Metafont,
+MetaL,http://en.wikipedia.org/wiki/MetaL_(programming_language),
+Microcode,http://en.wikipedia.org/wiki/Microassembler,
+MicroScript,http://en.wikipedia.org/wiki/MicroScript_(programming_language),
+MIIS,http://en.wikipedia.org/wiki/MIIS_(programming_language),
+MillScript,http://en.wikipedia.org/wiki/MillScript,
+MIMIC,http://en.wikipedia.org/wiki/MIMIC,
+Mirah,http://en.wikipedia.org/wiki/Mirah_(programming_language),"['object-oriented', 'imperative']"
+Miranda,http://en.wikipedia.org/wiki/Miranda_(programming_language),"['lazy', 'functional', 'declarative']"
+MIVA Script,http://en.wikipedia.org/wiki/MIVA_Script,['imperative']
+ML,http://en.wikipedia.org/wiki/ML_(programming_language),"['multi-paradigm', 'imperative', 'functional']"
+Moby,http://en.wikipedia.org/wiki/Moby_(programming_language),
+Model 204,http://en.wikipedia.org/wiki/Model_204,
+Modelica,http://en.wikipedia.org/wiki/Modelica,['declarative language']
+Modula,http://en.wikipedia.org/wiki/Modula,
+Modula-2,http://en.wikipedia.org/wiki/Modula-2,"['imperative', 'structured', 'modular', 'data and procedure hiding', 'concurrent']"
+Modula-3,http://en.wikipedia.org/wiki/Modula-3,"['imperative', 'structured', 'procedural', 'modular', 'concurrent']"
+Mohol,http://en.wikipedia.org/wiki/Mohol_programming_languages,
+MOO,http://en.wikipedia.org/wiki/MOO_(programming_language),"['multi-paradigm', 'structured', 'prototype-based']"
+Mortran,http://en.wikipedia.org/wiki/Mortran,
+Mouse,http://en.wikipedia.org/wiki/Mouse_(programming_language),
+MPD,http://en.wikipedia.org/wiki/MPD_(programming_language),
+CIL,http://en.wikipedia.org/wiki/Common_Intermediate_Language,
+MSL,http://en.wikipedia.org/wiki/MIRC_scripting_language,"['event-driven programming', 'procedural programming']"
+MUMPS,http://en.wikipedia.org/wiki/MUMPS,['procedural']
+NASM,http://en.wikipedia.org/wiki/Netwide_Assembler,
+NATURAL,http://en.wikipedia.org/wiki/NATURAL,
+Napier88,http://en.wikipedia.org/wiki/Napier88,
+Neko,http://en.wikipedia.org/wiki/Neko_(programming_language),"['object-oriented', 'structured', 'prototype-based', 'scripting']"
+Nemerle,http://en.wikipedia.org/wiki/Nemerle,"['multi-paradigm', 'metaprogramming', 'functional', 'object-oriented', 'imperative']"
+nesC,http://en.wikipedia.org/wiki/NesC,
+NESL,http://en.wikipedia.org/wiki/NESL,"['functional', 'array']"
+Net.Data,http://en.wikipedia.org/wiki/Net.Data,
+NetLogo,http://en.wikipedia.org/wiki/NetLogo,"['multi-paradigm', 'educational', 'procedural', 'agent-based', 'simulation']"
+NetRexx,http://en.wikipedia.org/wiki/NetRexx,"['multiparadigm', 'object-oriented', 'procedural', 'structured']"
+NewLISP,http://en.wikipedia.org/wiki/NewLISP,[]
+NEWP,http://en.wikipedia.org/wiki/NEWP,
+Newspeak,http://en.wikipedia.org/wiki/Newspeak_(programming_language),"['object-oriented', 'functional']"
+NewtonScript,http://en.wikipedia.org/wiki/NewtonScript,"['prototype', 'object-oriented']"
+NGL,http://en.wikipedia.org/wiki/NGL_(programming_language),
+Nial,http://en.wikipedia.org/wiki/Nial,['array']
+Nice,http://en.wikipedia.org/wiki/Nice_(programming_language),
+Nickle,http://en.wikipedia.org/wiki/Nickle_(programming_language),['multi-paradigm']
+NPL,http://en.wikipedia.org/wiki/NORD_Programming_Language,
+Not eXactly C,http://en.wikipedia.org/wiki/Not_eXactly_C,
+Not Quite C,http://en.wikipedia.org/wiki/Not_Quite_C,
+NSIS,http://en.wikipedia.org/wiki/Nullsoft_Scriptable_Install_System,
+Nu,http://en.wikipedia.org/wiki/Nu_(programming_language),"['structured', 'imperative', 'functional', 'object-oriented']"
+NWScript,http://en.wikipedia.org/wiki/NWScript,
+NXT-G,http://en.wikipedia.org/wiki/NXT-G,
+o:XML,http://en.wikipedia.org/wiki/O:XML,
+Oak,http://en.wikipedia.org/wiki/Oak_(programming_language),
+Oberon,http://en.wikipedia.org/wiki/Oberon_(programming_language),"['imperative', 'structured', 'modular', 'object-oriented']"
+Obix,http://en.wikipedia.org/wiki/Obix_programming_language,
+OBJ2,http://en.wikipedia.org/wiki/OBJ2,
+Object Lisp,http://en.wikipedia.org/wiki/Object_Lisp,
+ObjectLOGO,http://en.wikipedia.org/wiki/ObjectLOGO,
+Object REXX,http://en.wikipedia.org/wiki/Object_REXX,"['object-oriented', 'class-based']"
+Object Pascal,http://en.wikipedia.org/wiki/Object_Pascal,"['imperative', 'structured', 'object-oriented', 'functional (delphi dialect only)', 'component-based', 'event-driven', 'generic']"
+Objective-C,http://en.wikipedia.org/wiki/Objective-C,"['reflective', 'class-based', 'object-oriented']"
+Objective-J,http://en.wikipedia.org/wiki/Objective-J,"['multi-paradigm', 'reflective', 'object-oriented', 'functional', 'imperative', 'scripting']"
+Obliq,http://en.wikipedia.org/wiki/Obliq,"['multi-paradigm', 'parallel', 'prototype-based']"
+Obol,http://en.wikipedia.org/wiki/Obol_(programming_language),
+OCaml,http://en.wikipedia.org/wiki/OCaml,"['multi-paradigm', 'functional', 'imperative', 'object-oriented']"
+occam,http://en.wikipedia.org/wiki/Occam_(programming_language),"['imperative', 'procedural', 'concurrent']"
+occam-π,http://en.wikipedia.org/wiki/Occam-%CF%80,"['imperative', 'procedural', 'concurrent']"
+Octave,http://en.wikipedia.org/wiki/GNU_Octave,
+OmniMark,http://en.wikipedia.org/wiki/OmniMark,
+Onyx,http://en.wikipedia.org/wiki/Onyx_(programming_language),
+Opa,http://en.wikipedia.org/wiki/Opa_(programming_language),"['multi-paradigm', 'functional', 'imperative']"
+Opal,http://en.wikipedia.org/wiki/Opal_(programming_language),
+OpenCL,http://en.wikipedia.org/wiki/OpenCL,"['imperative', 'procedural', 'structured', 'object-oriented']"
+OpenEdge ABL,http://en.wikipedia.org/wiki/OpenEdge_Advanced_Business_Language,
+OPL,http://en.wikipedia.org/wiki/Open_Programming_Language,"['imperative', 'structured', 'embedded']"
+OPS5,http://en.wikipedia.org/wiki/OPS5,
+OptimJ,http://en.wikipedia.org/wiki/OptimJ,['object-oriented']
+Orc,http://en.wikipedia.org/wiki/Orc_(programming_language),"['concurrent', 'nondeterministic']"
+ORCA/Modula-2,http://en.wikipedia.org/wiki/ORCA/Modula-2,
+Oriel,http://en.wikipedia.org/wiki/Oriel_(scripting_language),"['imperative', 'procedural']"
+Orwell,http://en.wikipedia.org/wiki/Orwell_(programming_language),"['lazy', 'functional']"
+Oxygene,http://en.wikipedia.org/wiki/Oxygene_(programming_language),
+Oz,http://en.wikipedia.org/wiki/Oz_(programming_language),"['multi-paradigm', 'logic', 'functional', 'imperative', 'object-oriented', 'constraint', 'distributed', 'concurrent']"
+P#,http://en.wikipedia.org/wiki/P_Sharp,
+ParaSail (programming language),http://en.wikipedia.org/wiki/ParaSail_(programming_language),"['compiled', 'concurrent', 'imperative', 'structured', 'object-oriented']"
+PARI/GP,http://en.wikipedia.org/wiki/PARI/GP,
+Pascal,http://en.wikipedia.org/wiki/Pascal_(programming_language),[]
+Pawn,http://en.wikipedia.org/wiki/Pawn_(programming_language),
+PCASTL,http://en.wikipedia.org/wiki/PCASTL,"['imperative', 'reflective']"
+PCF,http://en.wikipedia.org/wiki/Programming_language_for_Computable_Functions,
+PEARL,http://en.wikipedia.org/wiki/PEARL_(programming_language),
+PeopleCode,http://en.wikipedia.org/wiki/PeopleCode,"['multi-paradigm', 'object-oriented', 'imperative']"
+Perl,http://en.wikipedia.org/wiki/Perl,"['multi-paradigm', 'functional', 'imperative', 'object-oriented', 'class-based', 'reflective', 'procedural', 'event-driven', 'generic']"
+PDL,http://en.wikipedia.org/wiki/Perl_Data_Language,['array']
+PHP,http://en.wikipedia.org/wiki/PHP,"['imperative', 'functional', 'object-oriented', 'procedural', 'reflective']"
+Phrogram,http://en.wikipedia.org/wiki/Phrogram,
+Pico,http://en.wikipedia.org/wiki/Pico_(programming_language),"['reflective', 'procedural']"
+Picolisp,http://en.wikipedia.org/wiki/Picolisp,"['functional', 'procedural', 'object-oriented', 'declarative', 'reflective', 'meta']"
+Pict,http://en.wikipedia.org/wiki/Pict_(programming_language),['concurrent']
+Pike,http://en.wikipedia.org/wiki/Pike_(programming_language),"['multi-paradigm', 'object-oriented', 'functional', 'procedural']"
+PIKT,http://en.wikipedia.org/wiki/PIKT,
+PILOT,http://en.wikipedia.org/wiki/PILOT,
+Pipelines,http://en.wikipedia.org/wiki/Hartmann_pipeline,['dataflow programming']
+Pizza,http://en.wikipedia.org/wiki/Pizza_(programming_language),"['generics', 'algebraic types']"
+PL-11,http://en.wikipedia.org/wiki/PL-11,
+PL/0,http://en.wikipedia.org/wiki/PL/0,
+PL/B,http://en.wikipedia.org/wiki/Programming_Language_for_Business,"['procedural', 'imperative']"
+PL/C,http://en.wikipedia.org/wiki/PL/C,"['procedural', 'imperative', 'structured']"
+PL/I,http://en.wikipedia.org/wiki/PL/I,"['procedural', 'imperative', 'structured']"
+PL/M,http://en.wikipedia.org/wiki/PL/M,
+PL/P,http://en.wikipedia.org/wiki/PL/P,
+PL/SQL,http://en.wikipedia.org/wiki/PL/SQL,
+PL360,http://en.wikipedia.org/wiki/PL360,
+PLANC,http://en.wikipedia.org/wiki/PLANC,
+Plankalkül,http://en.wikipedia.org/wiki/Plankalk%C3%BCl,['procedural']
+Planner,http://en.wikipedia.org/wiki/Planner_(programming_language),
+PLEX,http://en.wikipedia.org/wiki/PLEX_(programming_language),"['procedural', 'imperative']"
+PLEXIL,http://en.wikipedia.org/wiki/PLEXIL,['multi-paradigm']
+Plus,http://en.wikipedia.org/wiki/Plus_(programming_language),"['imperative', 'structured']"
+POP-11,http://en.wikipedia.org/wiki/POP-11,
+PostScript,http://en.wikipedia.org/wiki/PostScript,"['multi-paradigm', 'stack-based', 'procedural']"
+PortablE,http://en.wikipedia.org/wiki/Amiga_E#PortablE,
+Powerhouse,http://en.wikipedia.org/wiki/Powerhouse_(programming_language),
+PowerBuilder,http://en.wikipedia.org/wiki/PowerBuilder,
+PowerShell,http://en.wikipedia.org/wiki/PowerShell,"['imperative', 'pipeline', 'object-oriented', 'functional', 'reflective']"
+PPL,http://en.wikipedia.org/wiki/Polymorphic_Programming_Language,
+Processing,http://en.wikipedia.org/wiki/Processing_(programming_language),['object-oriented']
+Processing.js,http://en.wikipedia.org/wiki/Processing.js,
+Prograph,http://en.wikipedia.org/wiki/Prograph,"['multi-paradigm', 'object-oriented', 'visual', 'dataflow']"
+PROIV,http://en.wikipedia.org/wiki/PROIV,
+Prolog,http://en.wikipedia.org/wiki/Prolog,['logic programming']
+PROMAL,http://en.wikipedia.org/wiki/PROMAL,"['imperative', 'procedural', 'structured']"
+Promela,http://en.wikipedia.org/wiki/Promela,
+PROSE modeling language,http://en.wikipedia.org/wiki/PROSE_modeling_language,
+PROTEL,http://en.wikipedia.org/wiki/Protel,
+ProvideX,http://en.wikipedia.org/wiki/ProvideX,
+Pro*C,http://en.wikipedia.org/wiki/Pro*C,
+Pure,http://en.wikipedia.org/wiki/Pure_(programming_language),"['functional', 'declarative', 'term rewriting']"
+Python,http://en.wikipedia.org/wiki/Python_(programming_language),"['multi-paradigm', 'functional', 'imperative', 'object-oriented', 'reflective']"
+Q (equational programming language),http://en.wikipedia.org/wiki/Q_(equational_programming_language),"['functional', 'declarative', 'term rewriting']"
+Q (programming language from Kx Systems),http://en.wikipedia.org/wiki/Q_(programming_language_from_Kx_Systems),"['array', 'functional']"
+Qalb,http://en.wikipedia.org/wiki/Qalb_(programming_language),['functional']
+Qi,http://en.wikipedia.org/wiki/Qi_(programming_language),
+QtScript,http://en.wikipedia.org/wiki/QtScript,
+QuakeC,http://en.wikipedia.org/wiki/QuakeC,"['imperative', 'procedural', 'structured']"
+QPL,http://en.wikipedia.org/wiki/Quantum_programming,
+R,http://en.wikipedia.org/wiki/R_(programming_language),"['multi-paradigm', 'array', 'object-oriented', 'imperative', 'functional', 'procedural', 'reflective']"
+R++,http://en.wikipedia.org/wiki/R%2B%2B,
+Racket,http://en.wikipedia.org/wiki/Racket_(programming_language),"['multi-paradigm', 'functional', 'imperative', 'logic', 'meta', 'modular', 'object-oriented', 'reflective']"
+RAPID,http://en.wikipedia.org/wiki/RAPID,
+Rapira,http://en.wikipedia.org/wiki/Rapira,
+Ratfiv,http://en.wikipedia.org/wiki/Ratfiv,
+Ratfor,http://en.wikipedia.org/wiki/Ratfor,
+rc,http://en.wikipedia.org/wiki/Rc,"['imperative', 'pipeline']"
+REBOL,http://en.wikipedia.org/wiki/REBOL,"['language oriented programming', 'data exchange', 'functional', 'prototype-based', 'imperative']"
+Red,http://en.wikipedia.org/wiki/Red_(programming_language),"['imperative', 'functional', 'symbolic']"
+Redcode,http://en.wikipedia.org/wiki/Core_War,
+REFAL,http://en.wikipedia.org/wiki/REFAL,"['pattern-matching', 'term-rewriting']"
+Reia,http://en.wikipedia.org/wiki/Reia_(programming_language),"['multi-paradigm', 'functional', 'concurrent', 'distributed', 'process-oriented']"
+Revolution,http://en.wikipedia.org/wiki/Revolution_(programming_language),['object-oriented']
+rex,http://en.wikipedia.org/wiki/Rex_(language),
+REXX,http://en.wikipedia.org/wiki/REXX,"['multiparadigm', 'procedural', 'structured']"
+Rlab,http://en.wikipedia.org/wiki/Rlab,
+RobotC,http://en.wikipedia.org/wiki/RobotC,
+ROOP,http://en.wikipedia.org/wiki/ROOP_(programming_language),
+RPG,http://en.wikipedia.org/wiki/IBM_RPG,['multi-paradigm']
+RPL,http://en.wikipedia.org/wiki/RPL_(programming_language),"['stack', 'structured', 'object-oriented']"
+RSL,http://en.wikipedia.org/wiki/Robot_Battle#Robot_scripting_language,
+RTL/2,http://en.wikipedia.org/wiki/RTL/2,"['structured', 'imperative']"
+Ruby,http://en.wikipedia.org/wiki/Ruby_(programming_language),"['multi-paradigm', 'object-oriented', 'imperative', 'functional', 'reflective']"
+RuneScript,http://en.wikipedia.org/wiki/RuneScape#History_and_development,
+Rust,http://en.wikipedia.org/wiki/Rust_(programming_language),"['multi-paradigm', 'concurrent', 'functional', 'generic', 'imperative', 'structured']"
+S,http://en.wikipedia.org/wiki/S_(programming_language),"['multi-paradigm', 'imperative', 'object oriented']"
+S2,http://en.wikipedia.org/wiki/S2_(programming_language),['object-oriented']
+S3,http://en.wikipedia.org/wiki/S3_(programming_language),"['structured', 'imperative']"
+S-Lang,http://en.wikipedia.org/wiki/S-Lang_(programming_language),
+S-PLUS,http://en.wikipedia.org/wiki/S-PLUS,
+SA-C,http://en.wikipedia.org/wiki/SA-C_(programming_language),
+SabreTalk,http://en.wikipedia.org/wiki/SabreTalk,
+SAIL,http://en.wikipedia.org/wiki/SAIL_(programming_language),
+SALSA,http://en.wikipedia.org/wiki/SALSA_(programming_language),['actor model']
+SAM76,http://en.wikipedia.org/wiki/SAM76,
+SAS,http://en.wikipedia.org/wiki/SAS_System,
+SASL,http://en.wikipedia.org/wiki/SASL_(programming_language),['functional']
+Sather,http://en.wikipedia.org/wiki/Sather,"['object-oriented', 'functional']"
+Sawzall,http://en.wikipedia.org/wiki/Sawzall_(programming_language),
+SBL,http://en.wikipedia.org/wiki/Superbase_database,
+Scala,http://en.wikipedia.org/wiki/Scala_(programming_language),"['multi-paradigm', 'concurrent', 'functional', 'imperative', 'object-oriented']"
+Scheme,http://en.wikipedia.org/wiki/Scheme_(programming_language),"['multi-paradigm', 'functional', 'imperative', 'meta']"
+Scilab,http://en.wikipedia.org/wiki/Scilab,
+Scratch,http://en.wikipedia.org/wiki/Scratch_(programming_language),"['event-driven', 'visual', 'block-based']"
+Script.NET,http://en.wikipedia.org/wiki/Script.NET,"['imperative', 'meta', 'scripting']"
+Sed,http://en.wikipedia.org/wiki/Sed,['scripting']
+Seed7,http://en.wikipedia.org/wiki/Seed7,"['multi-paradigm', 'extensible', 'object-oriented', 'imperative', 'structured', 'generic', 'reflective']"
+Self,http://en.wikipedia.org/wiki/Self_(programming_language),"['object-oriented', 'prototype-based']"
+SenseTalk,http://en.wikipedia.org/wiki/SenseTalk,
+SequenceL,http://en.wikipedia.org/wiki/SequenceL,"['parallel computing', 'functional', 'purely functional', 'declarative programming']"
+SETL,http://en.wikipedia.org/wiki/SETL,"['multi-paradigm', 'imperative', 'procedural', 'structured', 'object-oriented']"
+Shift Script,http://en.wikipedia.org/wiki/Shift_Script,
+SIMPOL,http://en.wikipedia.org/wiki/Superbase_database#History,
+Shakespeare,http://en.wikipedia.org/wiki/Shakespeare,
+SIGNAL,http://en.wikipedia.org/wiki/SIGNAL_(programming_language),
+SiMPLE,http://en.wikipedia.org/wiki/SiMPLE,
+SIMSCRIPT,http://en.wikipedia.org/wiki/SIMSCRIPT,
+Simula,http://en.wikipedia.org/wiki/Simula,['object-oriented']
+Simulink,http://en.wikipedia.org/wiki/Simulink,
+SISAL,http://en.wikipedia.org/wiki/SISAL,"['functional', 'dataflow']"
+SLIP,http://en.wikipedia.org/wiki/SLIP_(programming_language),
+SMALL,http://en.wikipedia.org/wiki/SMALL,
+Smalltalk,http://en.wikipedia.org/wiki/Smalltalk,['object-oriented']
+Small Basic,http://en.wikipedia.org/wiki/SmallBASIC,
+SML,http://en.wikipedia.org/wiki/Standard_ML,"['multi-paradigm', 'functional', 'imperative']"
+Snap!,http://en.wikipedia.org/wiki/Snap!_(programming_language),"['object-oriented', 'educational', 'event-driven']"
+SNOBOL,http://en.wikipedia.org/wiki/SNOBOL,"['imperative', 'unstructured']"
+SPITBOL,http://en.wikipedia.org/wiki/SPITBOL_compiler,
+Snowball,http://en.wikipedia.org/wiki/Snowball_programming_language,
+SOL,http://en.wikipedia.org/wiki/Secure_Operations_Language,
+Span,http://en.wikipedia.org/wiki/Span_(programming_language),
+SPARK,http://en.wikipedia.org/wiki/SPARK_(programming_language),['multi-paradigm']
+SPIN,http://en.wikipedia.org/wiki/Parallax_Propeller,
+SP/k,http://en.wikipedia.org/wiki/SP/k,"['structured', 'imperative']"
+SPS,http://en.wikipedia.org/wiki/IBM_1401_Symbolic_Programming_System,
+Squeak,http://en.wikipedia.org/wiki/Squeak,['object-oriented']
+Squirrel,http://en.wikipedia.org/wiki/Squirrel_(programming_language),"['multi-paradigm', 'scripting', 'imperative', 'functional', 'object-oriented']"
+SR,http://en.wikipedia.org/wiki/SR_(programming_language),
+S/SL,http://en.wikipedia.org/wiki/S/SL_programming_language,
+Stackless Python,http://en.wikipedia.org/wiki/Stackless_Python,
+Starlogo,http://en.wikipedia.org/wiki/Starlogo,"['multi-paradigm', 'educational', 'procedural', 'agent-based', 'simulation']"
+Strand,http://en.wikipedia.org/wiki/Strand_(programming_language),
+Stata,http://en.wikipedia.org/wiki/Stata,
+Stateflow,http://en.wikipedia.org/wiki/Stateflow,
+Subtext,http://en.wikipedia.org/wiki/Subtext_(programming_language),
+SuperCollider,http://en.wikipedia.org/wiki/SuperCollider,
+SuperTalk,http://en.wikipedia.org/wiki/SuperTalk,
+Swift (Apple programming language),http://en.wikipedia.org/wiki/Swift_(programming_language),"['multi-paradigm', 'protocol-oriented', 'object-oriented', 'functional', 'imperative', 'block structured']"
+Swift (parallel scripting language),http://en.wikipedia.org/wiki/Swift_(parallel_scripting_language),"['dataflow', 'distributed', 'grid', 'concurrent', 'scientific workflow', 'scripting']"
+SYMPL,http://en.wikipedia.org/wiki/SYMPL,
+SyncCharts,http://en.wikipedia.org/wiki/SyncCharts,
+SystemVerilog,http://en.wikipedia.org/wiki/SystemVerilog,"['structured', 'object-oriented']"
+T,http://en.wikipedia.org/wiki/T_(programming_language),"['multi-paradigm', 'object-oriented', 'imperative', 'functional', 'meta']"
+TACL,http://en.wikipedia.org/wiki/TACL,
+TACPOL,http://en.wikipedia.org/wiki/TACPOL_(programming_language),
+TADS,http://en.wikipedia.org/wiki/TADS,"['prototype-based', 'domain-specific']"
+TAL,http://en.wikipedia.org/wiki/Transaction_Application_Language,
+Tcl,http://en.wikipedia.org/wiki/Tcl,"['multi-paradigm', 'event-driven', 'functional', 'imperative', 'object-oriented']"
+Tea,http://en.wikipedia.org/wiki/Tea_(programming_language),"['multi-paradigm', 'functional', 'object-oriented', 'class-based']"
+TECO,http://en.wikipedia.org/wiki/Text_Editor_and_Corrector,
+TELCOMP,http://en.wikipedia.org/wiki/TELCOMP,
+TeX,http://en.wikipedia.org/wiki/TeX,
+TEX,http://en.wikipedia.org/wiki/Text_Executive_Programming_Language,
+TIE,http://en.wikipedia.org/wiki/Tensilica_Instruction_Extension,
+Timber,http://en.wikipedia.org/wiki/Timber_(programming_language),
+TMG,http://en.wikipedia.org/wiki/TMG_(language),
+Tom,http://en.wikipedia.org/wiki/Tom_(pattern_matching_language),
+TOM,http://en.wikipedia.org/wiki/TOM_(object-oriented_programming_language),['object-oriented']
+Topspeed,http://en.wikipedia.org/wiki/Clarion_(programming_language),
+TPU,http://en.wikipedia.org/wiki/Text_Processing_Utility,
+Trac,http://en.wikipedia.org/wiki/TRAC_(programming_language),
+TTM,http://en.wikipedia.org/wiki/TTM_(programming_language),[]
+T-SQL,http://en.wikipedia.org/wiki/Transact-SQL,
+TTCN,http://en.wikipedia.org/wiki/TTCN,
+Turing,http://en.wikipedia.org/wiki/Turing_(programming_language),"['multi-paradigm', 'object-oriented', 'procedural']"
+TUTOR,http://en.wikipedia.org/wiki/TUTOR_(programming_language),"['imperative', 'procedural']"
+TXL,http://en.wikipedia.org/wiki/TXL_(programming_language),"['pattern-matching', 'term-rewriting']"
+TypeScript,http://en.wikipedia.org/wiki/TypeScript,"['multi-paradigm', 'scripting', 'object-oriented', 'structured', 'imperative', 'functional', 'generic']"
+Turbo C++,http://en.wikipedia.org/wiki/Turbo_C%2B%2B,
+Ubercode,http://en.wikipedia.org/wiki/Ubercode,
+UCSD Pascal,http://en.wikipedia.org/wiki/UCSD_Pascal,
+Umple,http://en.wikipedia.org/wiki/Umple,['object-oriented']
+Unicon,http://en.wikipedia.org/wiki/Unicon_(programming_language),"['object-oriented', 'procedural']"
+Uniface,http://en.wikipedia.org/wiki/Uniface_(programming_language),
+UNITY,http://en.wikipedia.org/wiki/UNITY_(programming_language),
+Unix shell,http://en.wikipedia.org/wiki/Unix_shell,
+UnrealScript,http://en.wikipedia.org/wiki/UnrealScript,"['object-oriented', 'generic']"
+Vala,http://en.wikipedia.org/wiki/Vala_(programming_language),"['multi-paradigm', 'imperative', 'structured', 'object-oriented']"
+VBA,http://en.wikipedia.org/wiki/Visual_Basic_for_Applications,['multi-paradigm']
+VBScript,http://en.wikipedia.org/wiki/VBScript,
+Verilog,http://en.wikipedia.org/wiki/Verilog,['structured']
+VHDL,http://en.wikipedia.org/wiki/VHDL,[]
+Visual Basic,http://en.wikipedia.org/wiki/Visual_Basic,"['object-based', 'event-driven']"
+Visual Basic .NET,http://en.wikipedia.org/wiki/Visual_Basic_.NET,"['structured', 'imperative', 'object-oriented', 'declarative', 'generic', 'reflective', 'event-driven']"
+Visual DataFlex,http://en.wikipedia.org/wiki/Visual_DataFlex,
+Visual DialogScript,http://en.wikipedia.org/wiki/Visual_DialogScript,
+Visual Fortran,http://en.wikipedia.org/wiki/Visual_Fortran,"['multi-paradigm', 'structured', 'imperative', 'procedural', 'object-oriented', 'generic']"
+Visual FoxPro,http://en.wikipedia.org/wiki/Visual_FoxPro,
+Visual J++,http://en.wikipedia.org/wiki/Visual_J%2B%2B,
+Visual J#,http://en.wikipedia.org/wiki/Visual_J,
+Visual Objects,http://en.wikipedia.org/wiki/Visual_Objects,
+Visual Prolog,http://en.wikipedia.org/wiki/Visual_Prolog,"['multi-paradigm', 'logical', 'functional', 'object-oriented', 'imperative']"
+VSXu,http://en.wikipedia.org/wiki/VSXu,['visual programming']
+Vvvv,http://en.wikipedia.org/wiki/Vvvv,['visual programming']
+"WATFIV, WATFOR",http://en.wikipedia.org/wiki/WATFIV_(programming_language),
+WebDNA,http://en.wikipedia.org/wiki/WebDNA,
+WebQL,http://en.wikipedia.org/wiki/WebQL,
+Windows PowerShell,http://en.wikipedia.org/wiki/Windows_PowerShell,"['imperative', 'pipeline', 'object-oriented', 'functional', 'reflective']"
+Winbatch,http://en.wikipedia.org/wiki/Winbatch,
+Wolfram,http://en.wikipedia.org/wiki/Wolfram_Language,"['multi-paradigm', 'term-rewriting', 'functional', 'procedural', 'array']"
+Wyvern,http://en.wikipedia.org/wiki/Wyvern_(programming_language),
+X++,http://en.wikipedia.org/wiki/Microsoft_Dynamics_AX,
+X#,http://en.wikipedia.org/wiki/X_Sharp_(programming_language),
+X10,http://en.wikipedia.org/wiki/X10_(programming_language),['object-oriented']
+XBL,http://en.wikipedia.org/wiki/XBL,
+XC,http://en.wikipedia.org/wiki/XC_Programming_Language,"['concurrent', 'parallel', 'distributed', 'multi-core', 'real-time', 'imperative']"
+XMOS architecture,http://en.wikipedia.org/wiki/XCore_XS1,
+xHarbour,http://en.wikipedia.org/wiki/XHarbour,
+XL,http://en.wikipedia.org/wiki/XL_(programming_language),"['multi-paradigm', 'concept-oriented', 'imperative', 'functional']"
+Xojo,http://en.wikipedia.org/wiki/Xojo,
+XOTcl,http://en.wikipedia.org/wiki/XOTcl,"['multi-paradigm', 'object-oriented', 'functional', 'imperative', 'event-driven programming']"
+XPL,http://en.wikipedia.org/wiki/XPL,
+XPL0,http://en.wikipedia.org/wiki/XPL0,
+XQuery,http://en.wikipedia.org/wiki/XQuery,"['declarative', 'functional', 'modular']"
+XSB,http://en.wikipedia.org/wiki/XSB,['logic programming']
+XSLT,http://en.wikipedia.org/wiki/XSL_Transformations,['declarative']
+XPath,http://en.wikipedia.org/wiki/XPath,['query language']
+Xtend,http://en.wikipedia.org/wiki/Xtend,"['object-oriented', 'imperative', 'functional']"
+Yorick,http://en.wikipedia.org/wiki/Yorick_(programming_language),
+YQL,http://en.wikipedia.org/wiki/YQL_(programming_language),
+Z notation,http://en.wikipedia.org/wiki/Z_notation,
+Zeno,http://en.wikipedia.org/wiki/Zeno_(programming_language),
+ZOPL,http://en.wikipedia.org/wiki/ZOPL,
+ZPL,http://en.wikipedia.org/wiki/ZPL_(programming_language),['array']
